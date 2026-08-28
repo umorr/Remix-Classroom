@@ -1,0 +1,10 @@
+{
+  "name": "Remix Room Style Visualizer",
+  "description": "Interactive 18'x24' modern high school classroom design studio for 30 students with ergonomic mobile desks, unobstructed whiteboard sightlines, teacher standing desk with bottom shelves, lounge sofa breakout area, and AI rendering.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
